@@ -3,7 +3,7 @@ A list of quality APIs intended for Discord Bots.
 
 > We get accept any public and ethical API, that can be used when creating Discord Bots.
 
-> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM me (`Spen#0999`) on Discord. We are not affliated with any API, nor do we endorse any API on this list.
+> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM `Spen#0999` on Discord. We are not affliated with any API, nor do we endorse any API on this list.
 
 ## Index
 **APIs**
