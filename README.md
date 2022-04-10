@@ -3,7 +3,9 @@ A list of quality APIs intended for Discord Bots.
 
 > We get accept any public and ethical API, that can be used when creating Discord Bots.
 
-> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM `Spen#0999` on Discord. We are not affliated with any API, nor do we endorse any API on this list.
+> We may forget to update this list from time to time. in the case that an API is outdated or shut down, open an issue.
+ 
+> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM `Spen#0999` or `avonryle#2022` on Discord. We are not affliated with any API, nor do we endorse any API on this list.
 
 ## Index
 **APIs**
@@ -55,8 +57,8 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- |
 [Animechan](https://animechan.vercel.app/)  | [View Docs](https://animechan.vercel.app/guide) | Quality anime quotes. | No
-[nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
-[nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
+[nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | An API for returning neko images. | No
+[nekos.life](https://nekos.life/) | None | An API dedicated to nekos. | Partially
 [YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
 [NekoBot](https://nekobot.xyz/) | [View Docs](https://docs.nekobot.xyz/) | Arrangement of nekos and utilites. | Partially
 
