@@ -50,6 +50,8 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [random.dog](https://random.dog/woof.json) | None | Get random cute dogs. | No
 | [Dog CEO](https://dog.ceo/dog-api/) | [View Docs](https://dog.ceo/dog-api/documentation/) | Adorable dog image generation. | No
 | [Random Fox](https://randomfox.ca/) | None | Delightful fox images. | No
+| [Random Duck](https://random-d.uk/api) | [View Docs](https://random-d.uk/api) | Random duck images. | No
+| [The Cat API](https://thecatapi.com/) | [View Docs](https://docs.thecatapi.com/) | A public service API all about Cats. | No
 
 *[Back To Index](#index)*
 
@@ -61,6 +63,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 [nekos.life](https://nekos.life/) | None | An API dedicated to nekos. | Partially
 [YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
 [NekoBot](https://nekobot.xyz/) | [View Docs](https://docs.nekobot.xyz/) | Arrangement of nekos and utilites. | Partially
+[Waifu Pics](https://waifu.pics/docs) | [View Docs](https://waifu.pics/docs) | User contributed anime pictures API. | No
 
 *[Back To Index](#index)*
 
@@ -88,6 +91,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [Avux API](https://api.avux.ga/) | [View Docs](https://docs.avux.ga/) | Includes features like anime, NSFW, and more. | Partially
 | [Some Random API](https://some-random-api.ml/) | [View Docs](https://some-random-api.ml/docs/welcome/introduction) | A assortment of random endpoints.
 | [Jalpa API](https://www.jalpa-api.ga) | [View Docs](https://docs.jalpa-api.ga) | A multi-purpose API | No
+| [Pop Cat API](https://api.popcat.xyz) | None | A multi-purpose API with image manipulation and utility features. | No
 
 *[Back To Index](#index)*
 
@@ -101,6 +105,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [Cool-Img](https://api.cool-img-api.ml/) | None | Allows developers/users to customize meme templates. | No
 | [Devs-Hub](https://api.devs-hub.xyz/) | None | Allows developers/users to customize meme templates (also includes some utility features). | No
 | [Vacefron](https://vacefron.nl/api/) | None | Allows developers/users to customize meme templates. | No
+| [French Noodles API](https://frenchnoodles.xyz/api/endpoints) | None | [View Docs](https://frenchnoodles.xyz/api) | An image manipulation API to make memes or get random ones online. | No
 
 *[Back To Index](#index)*
 
@@ -115,5 +120,6 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- |
 | [Numbers API](http://numbersapi.com) | [View Docs](http://numbersapi.com) | A multi-purpose API that deals with numbers. | No
+| [Advice Slip API](https://api.adviceslip.com/) | None | API for random advices. | No
 
 *[Back To Index](#index)*
