@@ -60,7 +60,6 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | -------------   |:-------------:| ------------- | ------------- |
 [Animechan](https://animechan.vercel.app/)  | [View Docs](https://animechan.vercel.app/guide) | Quality anime quotes. | No
 [nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | An API for returning neko images. | No
-[nekos.life](https://nekos.life/) | None | An API dedicated to nekos. | Partially
 [YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
 [NekoBot](https://nekobot.xyz/) | [View Docs](https://docs.nekobot.xyz/) | Arrangement of nekos and utilites. | Partially
 [Waifu Pics](https://waifu.pics/docs) | [View Docs](https://waifu.pics/docs) | User contributed anime pictures API. | No
