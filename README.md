@@ -88,6 +88,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [Avux API](https://api.avux.ga/) | [View Docs](https://docs.avux.ga/) | Includes features like anime, NSFW, and more. | Partially
 | [Some Random API](https://some-random-api.ml/) | [View Docs](https://some-random-api.ml/docs/welcome/introduction) | A assortment of random endpoints.
 | [Jalpa API](https://www.jalpa-api.ga) | [View Docs](https://docs.jalpa-api.ga) | A multi-purpose API | No
+| [SP-API](https://www.spapi.ga) | [View Docs](https://wiki.spapiwiki.ga] | A multi-purpose API but with sauce | No
 
 *[Back To Index](#index)*
 
