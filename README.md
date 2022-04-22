@@ -94,6 +94,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [SP-API V2](https://www.spapi.ga) | [View Docs](https://wiki2.spapiwiki.ga) | A multi-purpose API but with sauce but with more chilly flakes | No
 | [SP-API NSFW](https://nsfw.spapi.ga) | EOW | NSFW API also with sauce 🔞 | Yes
 | [Pop Cat API](https://api.popcat.xyz) | None | A multi-purpose API with image manipulation and utility features. | No
+| [Suzumi API](https://api.badboy.is-a.dev) | None | A rest API with lots of endpoints and and utility. | Partially
 
 *[Back To Index](#index)*
 
