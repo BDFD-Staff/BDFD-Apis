@@ -90,9 +90,6 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [Avux API](https://api.avux.ga/) | [View Docs](https://docs.avux.ga/) | Includes features like anime, NSFW, and more. | Partially
 | [Some Random API](https://some-random-api.ml/) | [View Docs](https://some-random-api.ml/docs/welcome/introduction) | A assortment of random endpoints.
 | [Jalpa API](https://www.jalpa-api.ga) | [View Docs](https://docs.jalpa-api.ga) | A multi-purpose API | No main
-| [SP-API V1](https://www.spapi.ga) | [View Docs](https://wiki.spapiwiki.ga) | A multi-purpose API but with sauce | No
-| [SP-API V2](https://www.spapi.ga) | [View Docs](https://wiki2.spapiwiki.ga) | A multi-purpose API but with sauce but with more chilly flakes | No
-| [SP-API NSFW](https://nsfw.spapi.ga) | EOW | NSFW API also with sauce 🔞 | Yes
 | [Pop Cat API](https://api.popcat.xyz) | None | A multi-purpose API with image manipulation and utility features. | No
 | [Suzumi API](https://api.badboy.is-a.dev) | None | A rest API with lots of endpoints and and utility. | Partially
 
