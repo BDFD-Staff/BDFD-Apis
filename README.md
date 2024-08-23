@@ -5,7 +5,9 @@ A list of quality APIs intended for Discord Bots.
 
 > We may forget to update this list from time to time. in the case that an API is outdated or shut down, open an issue.
  
-> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM `Spen#0999` or `avonryle#2022` on Discord. We are not affliated with any API, nor do we endorse any API on this list.
+> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM avonryle or spen on Discord. We are not affliated with any API, nor do we endorse any API on this list.
+
+# We are no longer updating this unless other staff decides to pick up on this.
 
 ## Index
 **APIs**
